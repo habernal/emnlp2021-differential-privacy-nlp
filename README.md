@@ -2,7 +2,7 @@
 
 Companion code to our EMNLP 2021 paper.
 
-Pre-print PDF available at arXiv: https://arxiv.org/abs/2109.03175
+PDF available at https://aclanthology.org/2021.emnlp-main.114/
 
 Please use the following citation
 
@@ -14,7 +14,7 @@ Please use the following citation
     publisher = {Association for Computational Linguistics},
     booktitle = {Proceedings of the 2021 Conference on Empirical
                  Methods in Natural Language Processing},
-    pages = {(to appear)},
+    pages = {1522--1528},
     year = {2021},
     address = {Punta Cana, Dominican Republic}
 }
